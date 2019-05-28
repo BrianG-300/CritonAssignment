@@ -1,0 +1,10 @@
+/Volumes/BRG-STUFF/dev projects/CritonTechnical/CritonTechnical/obj/Debug/netcoreapp2.1/CritonTechnical.csproj.CoreCompileInputs.cache
+/Volumes/BRG-STUFF/dev projects/CritonTechnical/CritonTechnical/obj/Debug/netcoreapp2.1/CritonTechnical.AssemblyInfoInputs.cache
+/Volumes/BRG-STUFF/dev projects/CritonTechnical/CritonTechnical/obj/Debug/netcoreapp2.1/CritonTechnical.AssemblyInfo.cs
+/Volumes/BRG-STUFF/dev projects/CritonTechnical/CritonTechnical/obj/Debug/netcoreapp2.1/CritonTechnical.dll
+/Volumes/BRG-STUFF/dev projects/CritonTechnical/CritonTechnical/obj/Debug/netcoreapp2.1/CritonTechnical.pdb
+/Volumes/BRG-STUFF/dev projects/CritonTechnical/CritonTechnical/bin/Debug/netcoreapp2.1/CritonTechnical.deps.json
+/Volumes/BRG-STUFF/dev projects/CritonTechnical/CritonTechnical/bin/Debug/netcoreapp2.1/CritonTechnical.runtimeconfig.json
+/Volumes/BRG-STUFF/dev projects/CritonTechnical/CritonTechnical/bin/Debug/netcoreapp2.1/CritonTechnical.runtimeconfig.dev.json
+/Volumes/BRG-STUFF/dev projects/CritonTechnical/CritonTechnical/bin/Debug/netcoreapp2.1/CritonTechnical.dll
+/Volumes/BRG-STUFF/dev projects/CritonTechnical/CritonTechnical/bin/Debug/netcoreapp2.1/CritonTechnical.pdb
